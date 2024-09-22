@@ -1,2 +1,2 @@
-hello I am someone and I am special because I was created from feature2 branch.
 update of commit in master branch before mergeing with feature3
+
